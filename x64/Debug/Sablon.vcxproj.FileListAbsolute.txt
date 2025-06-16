@@ -1,0 +1,2 @@
+C:\Users\korisnik\Desktop\v1\Ognjen_Milicevic_RA149_2020_K2\x64\Debug\glew32.dll
+C:\Users\korisnik\Desktop\v1\Ognjen_Milicevic_RA149_2020_K2\x64\Debug\Sablon.exe

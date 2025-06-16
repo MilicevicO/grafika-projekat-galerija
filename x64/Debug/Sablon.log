@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\korisnik\Desktop\v1\Ognjen_Milicevic_RA149_2020_K2\main.cpp(161,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+  Sablon.vcxproj -> C:\Users\korisnik\Desktop\v1\Ognjen_Milicevic_RA149_2020_K2\x64\Debug\Sablon.exe

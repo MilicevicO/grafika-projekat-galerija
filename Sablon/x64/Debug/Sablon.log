@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ognje\Documents\fakultet\grafika\grafika-projekat-galerija\main.cpp(145,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Sablon.vcxproj -> C:\Users\ognje\Documents\fakultet\grafika\grafika-projekat-galerija\x64\Debug\Sablon.exe
